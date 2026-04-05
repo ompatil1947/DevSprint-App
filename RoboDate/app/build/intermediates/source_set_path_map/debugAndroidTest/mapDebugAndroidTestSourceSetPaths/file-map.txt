@@ -1,0 +1,4 @@
+com.example.robodate.test.app-androidTest-0 C:\Users\omspa\OneDrive\Desktop\CtrlX\DevSprint-App\RoboDate\app\build\generated\res\resValues\androidTest\debug
+com.example.robodate.test.app-mergeDebugAndroidTestResources-1 C:\Users\omspa\OneDrive\Desktop\CtrlX\DevSprint-App\RoboDate\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.robodate.test.app-mergeDebugAndroidTestResources-2 C:\Users\omspa\OneDrive\Desktop\CtrlX\DevSprint-App\RoboDate\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.robodate.test.app-debugAndroidTest-3 C:\Users\omspa\OneDrive\Desktop\CtrlX\DevSprint-App\RoboDate\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
